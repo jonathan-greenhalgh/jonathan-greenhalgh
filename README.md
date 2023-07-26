@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jonathan-greenhalgh
 - 👀 I’m interested in applying machine learning and data science to protein and metabolic engineering
-- 🌱 I’m currently learning R and SQL
+- 🌱 I’m currently learning object oriented programming, R and SQL
 - 💞️ I’m looking to collaborate on protein engineering
 
 <!---
